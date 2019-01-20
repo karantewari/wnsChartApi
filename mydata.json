@@ -1,0 +1,24 @@
+{
+    "chartData": [
+        { 
+            "id": 1, 
+            "chartDataVals": [34,56,90,15,76,32],
+            "chartColors": ["#2dc","#a4b","#dab","#bc2","#5fa","#c4a"],
+            "barLabelsStuff" : ["HTML5","CSS3","ES6","React.js","React Native","jQuery"]
+        },
+        {
+            "id": 2, 
+            "chartDataVals": [56,10,37,67,45,75],
+            "chartColors": ["#ebf442","#11750e","#0a5b4c","#b210a7","#874f3e","#163016"],
+            "barLabelsStuff" : ["January","February","March","April","May","June"]
+        }
+    ],
+    "tranformingData": [
+        { 
+            "id": 3, 
+            "chartDataVals": [34,56,90,15,76,32],
+            "chartColors": ["#2dc","#a4b","#dab","#bc2","#5fa","#c4a"],
+            "barLabelsStuff" : ["HTML5","CSS3","ES6","React.js","React Native","jQuery"]
+        }
+    ]
+  }
